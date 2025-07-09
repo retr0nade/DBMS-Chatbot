@@ -26,6 +26,7 @@ An intelligent chatbot that can understand, answer, and explain a wide range of 
   - `MySQL`, `PostgreSQL`, `PL/SQL`, `MongoDB`
 - ✅ Handles complex queries and explains step-by-step
 - ✅ Ideal for students, job prep, and college viva
+  Note: Might hallucinate sometimes
 
 ---
 
