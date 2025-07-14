@@ -1,7 +1,7 @@
 
 # 💬 DBMS Chatbot
 
-An intelligent chatbot that can understand, answer, and explain a wide range of topics in **Database Management Systems (DBMS)** — including SQL, MongoDB, PL/SQL, and more. Powered by modern large language models and hosted on an interactive notebook platform, this chatbot is your academic TA, interview buddy, and coding partner — all in one.
+An intelligent chatbot that can understand, answer, and explain a wide range of topics in **Database Management Systems (DBMS)** — including SQL, MongoDB, PL/SQL, and more. Powered by modern large language models and hosted on an interactive notebook platform, this chatbot is your academic TA and coding partner — all in one.
 
 ## 📚 Table of Contents
 
