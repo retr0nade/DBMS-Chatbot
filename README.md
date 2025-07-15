@@ -109,6 +109,7 @@ db.students.aggregate([
 - Requires internet for API-based LLMs
 - Not connected to a live database (currently text-based simulation)
 - May hallucinate syntax/theory if asked something obscure or unsupported
+- Lacks a bit of flegedness in query building
 
 ---
 
